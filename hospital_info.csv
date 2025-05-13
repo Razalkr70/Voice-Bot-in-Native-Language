@@ -1,0 +1,51 @@
+Department,Doctor Name,Availability,Room No,Language
+General,Dr. Arun,9am - 1pm,101,"Malayalam, English"
+Cardiology,Dr. Ravi,11am - 3pm,102,English
+Pediatrics,Dr. Asha,10am - 12pm,103,Malayalam
+Orthopedics,Dr. John,2pm - 6pm,104,"Malayalam, English"
+Neurology,Dr. Meera,8am - 12pm,105,English
+Dermatology,Dr. Suresh,1pm - 5pm,106,Malayalam
+ENT,Dr. Neena,24x7,107,"Malayalam, English"
+Ophthalmology,Dr. Kiran,9am - 1pm,108,English
+Oncology,Dr. Anil,11am - 3pm,109,Malayalam
+Emergency,Dr. Priya,10am - 12pm,110,"Malayalam, English"
+General,Dr. Arun,2pm - 6pm,111,English
+Cardiology,Dr. Ravi,8am - 12pm,112,Malayalam
+Pediatrics,Dr. Asha,1pm - 5pm,113,"Malayalam, English"
+Orthopedics,Dr. John,24x7,114,English
+Neurology,Dr. Meera,9am - 1pm,115,Malayalam
+Dermatology,Dr. Suresh,11am - 3pm,116,"Malayalam, English"
+ENT,Dr. Neena,10am - 12pm,117,English
+Ophthalmology,Dr. Kiran,2pm - 6pm,118,Malayalam
+Oncology,Dr. Anil,8am - 12pm,119,"Malayalam, English"
+Emergency,Dr. Priya,1pm - 5pm,120,English
+General,Dr. Arun,24x7,121,Malayalam
+Cardiology,Dr. Ravi,9am - 1pm,122,"Malayalam, English"
+Pediatrics,Dr. Asha,11am - 3pm,123,English
+Orthopedics,Dr. John,10am - 12pm,124,Malayalam
+Neurology,Dr. Meera,2pm - 6pm,125,"Malayalam, English"
+Dermatology,Dr. Suresh,8am - 12pm,126,English
+ENT,Dr. Neena,1pm - 5pm,127,Malayalam
+Ophthalmology,Dr. Kiran,24x7,128,"Malayalam, English"
+Oncology,Dr. Anil,9am - 1pm,129,English
+Emergency,Dr. Priya,11am - 3pm,130,Malayalam
+General,Dr. Arun,10am - 12pm,131,"Malayalam, English"
+Cardiology,Dr. Ravi,2pm - 6pm,132,English
+Pediatrics,Dr. Asha,8am - 12pm,133,Malayalam
+Orthopedics,Dr. John,1pm - 5pm,134,"Malayalam, English"
+Neurology,Dr. Meera,24x7,135,English
+Dermatology,Dr. Suresh,9am - 1pm,136,Malayalam
+ENT,Dr. Neena,11am - 3pm,137,"Malayalam, English"
+Ophthalmology,Dr. Kiran,10am - 12pm,138,English
+Oncology,Dr. Anil,2pm - 6pm,139,Malayalam
+Emergency,Dr. Priya,8am - 12pm,140,"Malayalam, English"
+General,Dr. Arun,1pm - 5pm,141,English
+Cardiology,Dr. Ravi,24x7,142,Malayalam
+Pediatrics,Dr. Asha,9am - 1pm,143,"Malayalam, English"
+Orthopedics,Dr. John,11am - 3pm,144,English
+Neurology,Dr. Meera,10am - 12pm,145,Malayalam
+Dermatology,Dr. Suresh,2pm - 6pm,146,"Malayalam, English"
+ENT,Dr. Neena,8am - 12pm,147,English
+Ophthalmology,Dr. Kiran,1pm - 5pm,148,Malayalam
+Oncology,Dr. Anil,24x7,149,"Malayalam, English"
+Emergency,Dr. Priya,9am - 1pm,150,English
